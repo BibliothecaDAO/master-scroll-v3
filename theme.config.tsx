@@ -1,5 +1,7 @@
 import React from "react";
 import { DocsThemeConfig } from "nextra-theme-docs";
+import { useRouter } from "next/router";
+import { useConfig } from "nextra-theme-docs";
 
 const config: DocsThemeConfig = {
   logo: (
@@ -163,6 +165,26 @@ const config: DocsThemeConfig = {
       <span className="nx-ml-2">Master Scroll</span>
     </span>
   ),
+  head: () => {
+    const { asPath } = useRouter();
+    const { frontMatter } = useConfig();
+    return (
+      <>
+        <meta
+          property="og:url"
+          content={`https://scroll.bibliothecadao.com${asPath}`}
+        />
+        <meta
+          property="og:title"
+          content={frontMatter.title || "Bibliotheca DAO"}
+        />
+        <meta
+          property="og:description"
+          content={frontMatter.description || "Biblioheca DAO Master Scroll"}
+        />
+      </>
+    );
+  },
   project: {
     link: "https://github.com/BibliothecaDAO/master-scroll",
   },
@@ -170,6 +192,7 @@ const config: DocsThemeConfig = {
     link: "https://discord.gg/uQnjZhZPfu",
   },
   docsRepositoryBase: "https://github.com/BibliothecaDAO/master-scroll",
+  faviconGlyph: "📖",
   footer: {
     text: (
       <span>
