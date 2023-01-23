@@ -8,7 +8,7 @@ tags:
 # Loot
 ---
 
-![Loot Bag](/static/img/loot.png)
+![Loot Bag](static/img/loot.png)
 
 ## What is Loot
 
@@ -36,4 +36,4 @@ OG bag holders will be able to distil bags and will receive the elements as indi
 
 These NFTs will evolve over time and will be equippable to an on-chain character.
 
-![Loot Bag](/static/img/game/loot-distilation.png)
+![Loot Bag](static/img/game/loot-distilation.png)

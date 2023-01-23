@@ -5,7 +5,7 @@ description: There are 16 Orders that were discovered in the deep lore of Loot, 
 
 # The Orders
 
-![The Orders](/static/img/order.png)
+![The Orders](static/img/order.png)
 
 ## What is an Order?
 

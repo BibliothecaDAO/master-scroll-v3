@@ -17,7 +17,7 @@ Inflation is a natural phenomenon in the world as more energy is injected into e
 
 This process would look something like this:
 
-![Loot Distillation](/static/img/game/loot-distilation.png)
+![Loot Distillation](static/img/game/loot-distilation.png)
 
 ---
 

@@ -1,0 +1,25 @@
+# Account Abstraction
+
+### What is Account Abstraction?
+
+Account Abstraction (AA) allows for the creation of smart contract accounts that can have their own logic for how they interact with the network.
+
+Ethereum currently has two types of accounts: Externally Owned Accounts (EOA) and Contract Accounts (CA). EOAs are tied to a specific cryptographic signer, and transactions must be signed using this key in order to be executed.
+
+Account Abstraction provides exciting possibilities for gaming, such as guild account contracts, where a group of players can share an account with specific rules and permissions for how it interacts with the network.
+
+#### Multicalls
+
+Multicalls allow for multiple transactions to be executed in a single transaction. This is useful for reducing gas costs, and for reducing the number of transactions that need to be mined. We use this in the game to allow players to sign a single transaction that executes multiple actions, such as harvesting on multiple farms, or building multiple structures.
+
+#### Session Keys
+
+Account Session Keys allow players to create a tempory key that can be used to sign transactions on their behalf. This allows for a player to sign a transaction using a key that is not their main account key, and for the transaction to be executed as if it was signed by the main account key. This is useful as players do not need to sign every transaction with their main account key, and can instead use a temporary key that is only valid for a short period of time! (This Core Team won the first ever StarkNet Hackathon with this idea!)
+
+#### Guilds
+
+Guilds will play a big part in the Realms ecosystem. Guilds allow players to create shared accounts with specific rules and permissions for how they interact with the network. This allows for players to create guilds that can interact with the network on their behalf, and for guilds to have their own logic for how they interact with the network. A guild could chooose to keep all a % of fees, or to distribute them to all members of the guild. You could make a guild between you and your friends, so they can share your Realms without you having to give them your account key!
+
+#### Recovery of Accounts
+
+No more seed phrases! With Account Abstraction you are able to change your Private Key. So if you think you have been compromised, you can change your private key and recover your account. This is a huge step forward in terms of security, and will allow players to feel more secure!

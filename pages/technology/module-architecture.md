@@ -12,11 +12,17 @@ Feature rich gaming applications proved to require too much computation for the 
 
 
 ## Modules act as open source DLCs
-Individual applications (such as developed at Bibliotheca) can take advantage on a more micro level by splitting monolithic codebases into functional modules that can be "composed" together. We split elements such as Settling, Resource Production, Building Construction, Realm Statistics, Wonders, AMM & Adventurers into logical modules that developers can reuse or modify and potentially be integrated back into the main game contract. For example - Crypts & Caverns has replicated the Settling & Resource modules, allowing the game assets to easily be integrated back into the main game logic and subsequently the user frontend client.
-![module controller](/static/img/game/module-controller.png)
-The entirety of the game is controlled through a core module controller contract determing which contracts have write access to the game state and logic. All upgrades to the controller (such as adding a new building type or integrating another project) are governed by the Bibliotheca DAO. By creating this modular structure the game has the ability expand independent of the core team. A new developer could choose to write a module that interacted with the rest of the game, proposed it to the community, and on a successful vote the game expands. 
+Bibliotheca takes advantage of smart contract composability by modularizing its codebase into reusable and replaceable functional units called modules. The functional units are defined as smart contracts that encapsulate specific functionality of the game and interact with other smart contracts through well-defined interfaces. The functional units can be combined in different ways to form new games or applications, or they can be replaced with new versions that implement the same functionality but with different performance, security, or cost characteristics. 
+
+The functional units can also be integrated with external systems, such as Oracles, through standard protocols, such as ERC-20, ERC-721, ERC-1155 and others. This approach allows for a more efficient and flexible development process, as well as a more robust and secure system, as it enables the separation of concerns, the isolation of bugs, the independent scaling, and the independent upgrade of each functional unit.
+
+![module controller](static/img/game/module-controller.png)
+
+The core game logic and state is controlled by a module controller contract which determines which contracts have the ability to write to the game state and logic. This centralizes control and allows for a more secure and manageable system. Upgrades and changes to the controller, such as adding new building types or integrating new projects, are governed by the Bibliotheca DAO. This allows for a decentralized and community-driven process for making changes to the game.
+
+By creating a modular structure, the game has the ability to expand and evolve independent of the core development team. For example, a new developer could write a new module that interacts with the rest of the game, propose it to the community, and if it is approved through a vote, it can be added to the game. This allows for a more collaborative and open-source development process and allows for the community to drive the direction and evolution of the game.
 
 ### Creators get paid
 
-The verifiability of the blockchain allows us to simulate an 'app store' like experience for new developers. When a new developer writes a module, they could choose to bake in a micro transaction to use this contract, resulting in the developer being paid each time a player interacts with it. Alternatively creators may be rewarded by the DAO for providing new experiences.
+The transparency and verifiability of the blockchain allows for a unique opportunity to simulate an 'app store' experience for new developers. A developer who creates a new module for the game can choose to include a small transaction fee for its use, which would result in the developer being paid each time a player interacts with it. This creates a financial incentive for developers to create new and innovative modules that can enhance the game experience for players.
 

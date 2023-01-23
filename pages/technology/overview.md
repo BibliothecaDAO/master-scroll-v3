@@ -1,16 +1,11 @@
----
-sidebar_position: 1
-description: Innovative technology solutions for innovative games
----
-
 # Overview & Keypoints
 
 ---
 
 ## The Stack - Why on-chain?
-Bibliotheca DAO employs a variety of innovative best-in-class open-source technologies to create engaging user and developer experiences. Recent advances in blockchain technology are allowing for orders of magnitude greater scalability and computation, greatly enhancing the viability of vibrant, feature rich gaming ecosystems. Developing the game state and logic on-chain provides a myriad of benefits and possibilities not explored in traditional game environments, such as interoperability with other ecosystems and shared, composable gaming experiences - made possible by the open, verifiable data provided by the chain.
+The Bibliotheca stack is designed to take advantage of Ethereum's ability to facilitate composability between smart contracts. Composability allows for the creation of complex financial applications by combining and building upon existing building blocks or smart contracts, this is similar to how Lego blocks can be combined to create new and unique structures. This is also known as a DeFi (Decentralized Finance) stack.
 
-![Stack](/static/img/stack.png)
+![Stack](static/img/stack.png)
 
 The [technology stack](./the-stack.md) includes languages such as Solidity, Cairo, React, GraphQL, Typescript to create all game state and logic on-chain, then cache it in a performant indexer which can be queried by any frontend application - such as the Atlas website or a developer creating an automated bot. The DAO provides opportunities for contribution from both within and external sources. If you'd like to learn more about how to contribute, get in contact on our [Discord](https://discord.gg/qjXNx4Htas) or [Github](https://github.com/BibliothecaForAdventurers/).
 

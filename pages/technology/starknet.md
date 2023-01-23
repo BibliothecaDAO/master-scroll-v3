@@ -1,14 +1,9 @@
----
-sidebar_position: 2
-description: The Ethereum L2 STARK scalability solution
----
-
 # StarkNet & Validity Proofs
 ---
 
-Games are some of the most complex pieces of software that exist in the world. The Ethereum Virtual Machine (EVM) is an incredible tool for low power requirement software, however it is not suited for heavy computation (and was never designed for it). For true on-chain realities and worlds to emerge we require a new technology, and we believe that STARKS show the greatest promise to achieve this.
+The Ethereum Virtual Machine (EVM) is a powerful tool for developing decentralized applications, but it is not well-suited for heavy computation, which is a common requirement for games. To enable the creation of true on-chain realities and worlds, a new technology is needed. One such technology that shows great promise for this purpose is STARKs (Scalable Transparent Argument of Knowledge).
 
-StarkNet is a validity proof generalized smart contract network in which anyone can publish smart contracts. These smart contracts create tiny proofs which are validated by external machines. Once enough of these proofs have been created by the network a batch is published onto Ethereum Mainnet. This enables the heavy computation needed for games to be abstracted, while still retaining the security guarantee of a decentralized network, Ethereum.
+StarkNet is a validity proof generalized smart contract network that allows anyone to publish smart contracts. These smart contracts create small proofs, which are then validated by external machines. Once enough of these proofs have been created by the network, a batch is published onto the Ethereum mainnet. This approach enables the heavy computation required for games to be abstracted, while still retaining the security guarantees of a decentralized network, like Ethereum. This technology will enable the creation of more complex and engaging games that can run on a decentralized network, and it will pave the way for new types of on-chain realities and worlds.
 
 
 ## STARKS
@@ -21,7 +16,7 @@ https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/zk-starks/
 ### What is StarkNet 
 StarkNet is a permissionless decentralized Validity-Rollup (also known as a “ZK-Rollup”), operating as an L2 network over Ethereum. It enables greatly enhanced scaling for its computation –  without compromising Ethereum’s composability and security, thanks to StarkNet’s reliance on the safest and most scalable cryptographic proof system (STARKs). StarkNet has been developed by StarkWare Industries Ltd, the pioneers behind the StarkEx scalability engine.
 
-![StarkNet](/static/img/starknet.png)
+![StarkNet](static/img/starknet.png)
 *Source:* StarkWare Industries
 
 ### Scalable and computational 

@@ -1,20 +1,20 @@
 # Bibliotheca DAO
 
-## History
+### History
 
 Bibliotheca DAO sprung into life with the initial goal of graphing all of the projects in the Lootverse together (see Loot). The DAO attracted passionate and talented community members, and together formulated a much grander ambition:  to build an alternative reality where anyone can participate. 
 
-### DAO goals
+### Goals
 
 You can read about the DAOs short term goals in the constitution. 
 
 The eternal goal is to create an expanding, self-sufficient open gaming protocol. DAO members will continue to vote on proposals submitted by individuals and entities, choosing which are funded by the Bibliotheca DAO treasury to be added to the Realms universe.
 
-### DAO strategy
+### Strategy
 
 ‘Realms: Eternum’ will be in the first wave of on-chain games built using STARKS (StarkNet). The methodologies learned by contributors will be shared with all - alongside opensource code, primitives and infrastructure - enabling Bibliotheca DAO to become the treasury and governance layer of a rich and varied open gaming protocol. The DAO will provide funding and knowledge to entities that wish to expand and improve the Realms via proposals voted on by DAO members (Realms NFT holders). 
 
-### DAO contributors
+### Contributors
 The DAO is funding contributors to pursue the DAO’s mission. Those contributors are:
 
 - Web3 natives

@@ -33,7 +33,7 @@ Realms exist within this world as tradable NFTs on the [Marketplace](./nft-marke
 
 We have developed an inflationary distillation contract of individual Loot items with a special Layer 1 to Layer 2 function. These inflate at a fixed rate and are available for trade and to equip onto their Adventurer.
 
-![Loot distillation](/static/img/game/loot-distilation.png)
+![Loot distillation](static/img/game/loot-distilation.png)
 
 Balancing a game where external developers can submit core modules that affect the economy is a known and accepted challenge. After the game is launched there will be a balancing committee of builders who will vote on how each new resource/item interoperates with the rest of the game.
 

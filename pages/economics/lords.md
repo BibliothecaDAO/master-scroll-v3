@@ -6,7 +6,7 @@ The release schedule is designed to align the token's supply with the demand for
 
 The total supply of $LORDS tokens is capped at 500 million, and the distribution of these tokens is governed by the Bibliotheca DAO.
 
-![$LORDS Allocation](/static/img/allocation.png)
+![$LORDS Allocation](static/img/allocation.png)
 
 ---
 ## Allocations

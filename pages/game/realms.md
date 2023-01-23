@@ -6,7 +6,7 @@
 
 The 8000 Realms in the game were originally procedurally generated as black and white SVG files, but have since undergone a transition to high-fidelity 3D renders using height maps.
 
-![Realms Low-High Fidelity](/static/img/game/realms-low-fid.png)
+![Realms Low-High Fidelity](static/img/game/realms-low-fid.png)
 
 
  ## 22 Resources
