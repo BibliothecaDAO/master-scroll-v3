@@ -1,0 +1,22 @@
+{
+  "index": "Preface",
+  "---": {
+    "type": "separator"
+  },
+  "background": "Background",
+  "game": "Eternum",
+  "dao": {
+    "title": "DAO",
+    "type": "menu",
+    "items": {
+      "about": {
+        "title": "Bibliotheca DAO",
+        "href": "https://bibliothecadao.xyz/"
+      },
+      "twitter": {
+        "title": "Contact Us",
+        "href": "https://twitter.com/LootRealms"
+      }
+    }
+  }
+}
