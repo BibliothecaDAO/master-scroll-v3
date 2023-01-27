@@ -1,17 +1,12 @@
----
-sidebar_position: 3
-title: Loot Fountains
----
-
 # Inflation: Loot Fountains
 
-💡 Layer 1 = Data Layer
+`💡 Layer 1 = Persistence data layer`
 
-💡 Layer 2 = Computation
+`💡 Layer 2 = Computation`
 
-For Loot to realize its potential as a high-value game asset it needs to be more dynamic and available to more people. We have taken the approach of an inflationary distillation contract which splits each Loot bag into its individual items. Each item is then available on StarkNet to trade and play with. Balance this contract with controlled inflation mechanics and we can open Loot to the next 100k players.
+To make Loot a valuable game asset, it needs to be dynamic and accessible to more players. The strategy is to use an inflationary distillation contract that breaks down each Loot bag into individual items, which can then be traded and used on StarkNet. Controlled inflation will help balance the contract and allow for the next 100k players to access Loot.
 
-### Controlled inflation is good
+### Controlled inflation
 
 Inflation is a natural phenomenon in the world as more energy is injected into ecosystems. Loot is no different. There are 8,000 Loot bags with a total of 64,000 items.
 
@@ -42,14 +37,6 @@ Each item will have its own set of dynamic statistics that will evolve with usag
 ### Equipping Items
 
 Adventurers will be able to equip these items in any combination that suits them best.
-
-### Trading
-
-All the Loot items will be traded on the NFT Marketplace and will be priced in ETH.
-
-### Dropping of Items
-
-In the Lootverse there will be various places to explore. Some of these places will be more dangerous than others. If a traveller is not careful they may drop their items and never recover them...
 
 ### The Merchant Contract
 

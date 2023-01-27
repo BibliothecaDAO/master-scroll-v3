@@ -21,5 +21,4 @@ They generate at different amounts based on rarity to ensure a balanced ecosyste
 - …
 - 1 Dragonhide
 
-Note: these are not the actual figures, this will be released at a later date.
-
+Note: these are not the actual figures, this will be released at a later date. Testing will begin with the open Alpha.

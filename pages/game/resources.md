@@ -18,6 +18,8 @@ Players can purchase Labor in 2-hour increments. To generate more resources, pla
 
 For example, if a player buys 10x Labor for Diamonds, they can claim 25x Diamonds every 2 hours for 10 times or claim 250x Diamonds 20 hours later.
 
+It is not possible to speed up production of resources.
+
 
 #### How do I harvest Resources?
 
@@ -25,11 +27,11 @@ Resources are claimable after each 2-hour Labor cycle and will appear in the pla
 
 #### Resource accrual cap
 
-There is no limit on how many Labor a player can purchase for each resource, however, players will have to claim them in 2-hour increments. 
+There is no limit on how much Labor a player can purchase for each resource, however, players will have to claim them in 2-hour increments. 
 
 #### What do Resources do?
 
-You can use resources in order to construct [buildings](./buildings#economic), summon [battalions](./troops-squads), and trade on the [AMM](/docs/economics/resource-amm). They are the economic layer of this world and are scarce, so use them wisely.
+You can use resources in order to construct [buildings](./buildings#economic), summon [battalions](./troops-squads), and trade on the [AMM](economics/resource-amm). They are the economic layer of this world and are scarce, so use them wisely.
 
 
 
@@ -39,15 +41,15 @@ You can use resources in order to construct [buildings](./buildings#economic), s
 
 Every Realm generates an additional stream of resources that are automatically accumulated in the Realm's vault. These resources are the target of raids and must be protected. Once the vault reaches 1008x units, it becomes claimable as a bonus. 
 
-Every time a player purchases 1x Labor for a resource, 25% of the claimable amount is added to the resource's vault for that Realm. Each resource of each Realm has its own unique vault. In case of a successful raid, the vault will be depleted by 25% each time, requiring the players to wait longer for the vault to refill before claiming the resources.
+Every time a player harvests Labor for a resource, 25% of the harvested amount is added to the resource's vault for that Realm. Each resource of each Realm has its own unique vault. In case of a successful raid, the vault will be depleted by 25% each time, requiring the players to wait longer for the vault to refill before claiming the resources.
 
 ### Defending your vault
 
-In order to protect your vault and reach maximum production, it is important to build up a strong defensive army. This will help deter attacks and prevent damage to your vault, allowing it to reach its full potential. Without proper defense, your vault will be vulnerable to attacks and may never reach 1008 units of production.
+In order to protect your vault and reach maximum production (because the Vault is full), it is important to build up a strong defensive army. This will help deter attacks and prevent damage to your vault, allowing it to reach its full potential. Without proper defense, your vault will be vulnerable to attacks and may never reach 1008 units of production.
 
 ### Cool down between attacks
 
-If you are attacked, whether successfully or not, your Realm is given a 2 hour cool down period where it can't be attacked.
+If you are attacked, whether successfully or not, your Realm is given a 2.4 hour cool down period where it can't be attacked. After this time period runs out the Realm is vulnerable again. 
 
 ---
 

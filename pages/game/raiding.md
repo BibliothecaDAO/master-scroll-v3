@@ -1,6 +1,6 @@
 # Raiding
 
-> Raiding is a key aspect of a Realm Lord's gameplay, it can provide a profitable way to gather resources when done strategically. However, it is important to be aware that raiding can also provoke other powerful players, and they may retaliate by raiding your own realm. It is essential to weigh the potential benefits and risks of raiding before making the decision. A successful raid can provide much-needed resources, but a failed raid can result in the loss of troops and resources. It is advisable to carefully plan out the raid, consider the target's defenses, and have a solid plan for retreat in case of failure.
+> Raiding is a key aspect of a Realm Lord's game play, it can provide a profitable way to gather resources when done strategically. However, it is important to be aware that raiding can also provoke other powerful players, and they may retaliate by raiding your own realm. It is essential to weigh the potential benefits and risks of raiding before making the decision. A successful raid can provide much-needed resources, but a failed raid can result in the loss of troops and resources. It is advisable to carefully plan out the raid, consider the target's defenses, and have a solid plan for retreat in case of failure.
 
 ## Pillaging a Realm
 

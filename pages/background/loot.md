@@ -1,12 +1,4 @@
----
-sidebar_position: 4
-description: Loot is a collaborative media project that aims to create a decentralized, infinitely-expansive sci-fantasy universe, rich with stories, games and multi-media.
-tags:
-  - loot
----
-
 # Loot
----
 
 ![Loot Bag](static/img/loot.png)
 
@@ -30,7 +22,7 @@ It's this community of builders that we are building with. Together, we are brin
 
 ## Our plans for the Lootverse
 
-We plan to bring the OG Loot bags onto StarkNet and allow rich game play with them. We will be doing this via a [distillation contract](/docs/adventurers/loot-fountains). 
+We plan to bring the OG Loot bags onto StarkNet and allow rich game play with them. We will be doing this via a [distillation contract](adventurers/loot-fountains). 
 
 OG bag holders will be able to distil bags and will receive the elements as individual NFTs on StarkNet.
 
