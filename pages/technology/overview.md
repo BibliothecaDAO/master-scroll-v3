@@ -1,9 +1,8 @@
 # Overview & Keypoints
 
----
 
 ## The Stack - Why on-chain?
-The Bibliotheca stack is designed to take advantage of Ethereum's ability to facilitate composability between smart contracts. Composability allows for the creation of complex financial applications by combining and building upon existing building blocks or smart contracts, this is similar to how Lego blocks can be combined to create new and unique structures. This is also known as a DeFi (Decentralized Finance) stack.
+The technology stack is designed to take advantage of StarkNets ability to facilitate composability between smart contracts. By pushing all logic and state on-chain we can create on-chain worlds that are both open and composable.
 
 ![Stack](static/img/stack.png)
 

@@ -175,11 +175,19 @@ const config: DocsThemeConfig = {
           content={`https://scroll.bibliothecadao.com${asPath}`}
         />
         <meta
+          property="title"
+          content={frontMatter.title || "Bibliotheca DAO"}
+        />
+        <meta
           property="og:title"
           content={frontMatter.title || "Bibliotheca DAO"}
         />
         <meta
           property="og:description"
+          content={frontMatter.description || "Biblioheca DAO Master Scroll"}
+        />
+        <meta
+          property="description"
           content={frontMatter.description || "Biblioheca DAO Master Scroll"}
         />
       </>
@@ -191,7 +199,7 @@ const config: DocsThemeConfig = {
   chat: {
     link: "https://discord.gg/uQnjZhZPfu",
   },
-  docsRepositoryBase: "https://github.com/BibliothecaDAO/master-scroll",
+  docsRepositoryBase: "https://github.com/BibliothecaDAO/master-scroll-v3",
   faviconGlyph: "📖",
   footer: {
     text: (

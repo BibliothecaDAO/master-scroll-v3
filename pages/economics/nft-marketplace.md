@@ -1,12 +1,11 @@
 # NFT Marketplace
 
-The NFT marketplace is a project that is currently in active development by the DAO. This marketplace will be used to trade all NFT assets within the game world, and transactions will be conducted using ETH. 
+Within Eternum and Adventurers there will exist an on-chain NFT marketplace denominated in $LORDS and ETH. It will be run on StarkNet and be written entirely in Cairo 1.0. 
 
-### assets on the market
+### Trading
 
-The market will be a fully on-chain marketplace and denominated in ETH. Initially it will contain the following assets, but will be expanded to other assets as the game grows:
+The market will be a fully on-chain marketplace and denominated in ETH and $LORDS.
 
-- Realms
-- Crypts
-- Loot items
-- Crafted items
+More details will be released about the Market closer to completion.
+
+If you are interested in contributing to this reach out in the discord.

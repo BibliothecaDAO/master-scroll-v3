@@ -1,10 +1,10 @@
 # The Lords Token
 
-The $LORDS token is the ERC20 token that powers the Realmverse. It serves as a fungible method for entry and exit from the network, and is essential for gameplay. The token follows a long emission schedule, which is controlled by the growth of the network. This means that the token will be released over a prolonged period of time, rather than all at once. 
+The $LORDS token is the ERC20 token that powers the Realmverse. It acts as a fungible means of access and exit for the network and is fundamental for gameplay. The token's issuance follows a long-term schedule, which is determined by the growth of the network. This ensures that the token is released gradually over an extended period, rather than all at once.
 
-The release schedule is designed to align the token's supply with the demand for the network's resources and services. This helps to ensure that the token's value is stable, and that it can be used as a reliable method of exchange within the Realmverse. The $LORDS token can be used to purchase resources, summon armies, and build structures, among other things. Additionally, the token can be traded on cryptocurrency exchanges, allowing players to enter and exit the network as they see fit.
+The release schedule aligns the token's supply with the demand for the network's resources and services, which helps to maintain the token's value stability and enable its use as a dependable method of exchange within the Realmverse. The $LORDS token can be used to acquire resources, summon armies, construct structures, and various other actions within the Realmverse. The token can also be traded on crypto exchanges, providing players with the flexibility to enter and exit the network at their discretion.
 
-The total supply of $LORDS tokens is capped at 500 million, and the distribution of these tokens is governed by the Bibliotheca DAO.
+The total supply of $LORDS tokens is fixed at 500 million. Distribution of these tokens is managed by the Bibliotheca DAO in accordance with its established protocols and procedures.
 
 ![$LORDS Allocation](static/img/allocation.png)
 
@@ -13,7 +13,7 @@ The total supply of $LORDS tokens is capped at 500 million, and the distribution
 
 ### Game emissions
 
-The biggest tranche of $LORDS will be released via game emissions. These emissions will follow a supply curve dependent on the actions within the game. It will be released at a sustained rate to balance inflation with growth, with the expected total distribution to take at least 7 years.
+The majority of $LORDS tokens will be distributed through game emissions. The supply of tokens released through these emissions will be determined by in-game actions and will be released at a steady rate to balance inflation and growth. The total distribution of tokens is expected to take a minimum of 7 years to complete.
 
 ### Bibliotheca DAO
 

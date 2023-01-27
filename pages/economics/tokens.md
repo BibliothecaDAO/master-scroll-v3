@@ -2,25 +2,23 @@
 
 ## The Open Item Table
 
-The project is designed around a core set of composable DAO governed contracts, extendable in the future via modules and upgrading of the core item table contracts. 
+The project is built on a foundation of composable, DAO-governed contracts that can be extended in the future through the addition of modules and updates to the core item table contracts.
 
 
 ## ERC20 (Fungible)
 
 ### $LORDS
 
-$LORDS is the only erc20 token within the network. It is generated only from specific assets within the world and is crucial to the network. You must use $LORDS in order to trade on the AMM. 
+The $LORDS token is an ERC-20 token that is unique to the network. It is generated from specific assets within the system and is essential for the functioning of the network. To participate in trading on the Automated Market Maker (AMM), it is necessary to use $LORDS tokens.
 
 
 ## ERC1155 (Semi-fungibles)
 
 ### Resources
 
-Resources are the core fungible tokens in the network. They can only be generated via in game NFT assets and are at the center of this whole world. Resources are used to pay for buildings constructed on a Realm, and in the process, they are burnt. Due to this, they are highly inflationary and highly deflationary according to their utilization within the network.
+Resources are the core fungible tokens in the network. They can only be generated via in-game non-fungible token (NFT) assets and are at the center of the game world. Resources are used to pay for buildings constructed on a Realm, and in the process, they are destroyed. This results in them being highly inflationary and highly deflationary according to their utilization within the network.
 
-
-In the first game release, 22 different tokens will exist and they will generate from the Realms settled in the game. New resources will be added as the game progresses, with the first expansion coming from the Crypts & Caverns NFTs.
-
+In the first game release, 22 different tokens will exist and they will be generated from the Realms settled in the game. New resources will be added as the game progresses, with the first expansion coming from the Crypts & Caverns NFTs.
 
 ## ERC721 (NFTS)
 
