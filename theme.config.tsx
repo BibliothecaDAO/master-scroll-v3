@@ -194,7 +194,7 @@ const config: DocsThemeConfig = {
     );
   },
   project: {
-    link: "https://github.com/BibliothecaDAO/master-scroll",
+    link: "https://github.com/BibliothecaDAO/master-scroll-v3",
   },
   chat: {
     link: "https://discord.gg/uQnjZhZPfu",
