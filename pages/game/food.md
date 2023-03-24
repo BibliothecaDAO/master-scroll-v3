@@ -2,6 +2,8 @@ import { Callout } from "nextra-theme-docs";
 
 # Food
 
+> Food plays an essential role in the effective management of an empire. As the number of buildings and battalions within a Realm increases, so too does the demand for food. By providing their battalions with sufficient sustenance across their Realms, Realm Lords can boost their vitality and overall performance. To allocate food throughout a Realm, Realm Lords are required to convert it into storehouses. Food can be produced and cultivated by Realm Lords themselves, or alternatively, it can be purchased from the Automated Market Maker (AMM). This strategic distribution of food is crucial for maintaining a thriving and successful empire.
+
 ## What is Food
 
 Food comes in two forms. $WHEAT and $FISH. You have two options to get food in Eternum. Buy it from the market or grow it.

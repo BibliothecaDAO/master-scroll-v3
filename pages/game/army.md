@@ -2,7 +2,7 @@ import { Callout } from "nextra-theme-docs";
 
 # Armies & Battalions
 
-> In the midst of chaos, there are always opportunities for a Realm Lord to strengthen their position. Summoning troops to defend their Realm can help protect it from attacks, while raiding foreign lands to acquire resources can help expand their Realm.
+> Armies serve as a critical element in the Realms Eternum gameplay experience. They offer defense and protection for Realms, safeguarding valuable resources and relics from aggressive opponents, while also presenting the opportunity to seize coveted resources from other Realms. Regardless of whether a Realm Lord intends to launch assaults on other territories or focus on fortifying their own domain, armies are indispensable for achieving prosperity. Their strategic use can make all the difference in maintaining a thriving and secure realm, enabling Realm Lords to excel in this dynamic and competitive environment.
 
 ## What are Battalions?
 

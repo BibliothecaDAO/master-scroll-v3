@@ -4,7 +4,7 @@ import { Callout } from "nextra-theme-docs";
 
 # Buildings
 
-**As a Realm Lord, it is important to carefully consider the trade-offs between the benefits and drawbacks of each building in order to effectively balance the statistics and develop a strong and prosperous Realm. It may also be helpful to prioritize certain buildings or upgrades based on the current needs of the Realm.**
+> In the role of a Realm Lord, one must meticulously weigh the advantages and disadvantages of each building to skillfully balance the statistics and cultivate a robust and flourishing Realm. This process involves not only finding equilibrium among the various structures but also recognizing the Realm's current needs and priorities. By focusing on specific buildings or upgrades that address these immediate requirements, Realm Lords can ensure the ongoing growth and prosperity of their domain while maintaining a strategic edge in their ever-evolving world.
 
 ## Spatial Areas
 

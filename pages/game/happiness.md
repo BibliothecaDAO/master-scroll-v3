@@ -1,6 +1,6 @@
 # Happiness
 
-> Keep your Realms fed or else your digital serfs will revolt.
+> Ensuring the happiness of a Realm's population is of paramount importance to a Realm Lord. Should happiness levels fall below 100 per Realm, repercussions may follow, such as a 15% desertion of battalions during each 12-hour game tick cycle. To maintain the contentment of their digital serfs, Realm Lords must attend to several key factors. These include providing adequate food supplies (as discussed in the Food section), maintaining a defending army, and preserving possession of their ancient relic. By successfully addressing these aspects, a Realm Lord can foster a harmonious and prosperous domain, benefitting both the ruler and the populace.
 
 ### What is Happiness?
 
