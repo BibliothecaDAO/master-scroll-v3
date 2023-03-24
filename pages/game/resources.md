@@ -2,7 +2,8 @@
 
 ---
 
-> 22 resources of varying rarity have been discovered across the Realms, ranging from common Coal & Wood to the rare and magical Mithral & Dragonhide.
+> Throughout the vast Realms Universe, 22 resources of differing rarity have been found, extending from the ubiquitous Coal and Wood to the scarce and enchanted materials like Mithral and Dragonhide. Each resource plays a crucial role in the pursuit of greatness for those who manage empires, making it essential to gather and trade these valuable assets to bolster one's endeavors. The strategic harvesting and exchange of these resources not only fuels the growth of empires, but also fosters cooperation, competition, and innovation among the inhabitants of the Realms Universe, driving them forward in their quests for success and prosperity.
+
 
 ---
 
