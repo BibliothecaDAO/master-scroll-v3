@@ -2,7 +2,7 @@ import { Callout } from "nextra-theme-docs";
 
 # Overview
 
-> "Empires rise and fall in the quest for control of Resources and Ancient Relics within an eternal world. Maintain and defend your empire or it will fall into disarray and be consumed by enemies."
+> "Empires rise and fall in the quest for control of resources and ancient relics within an eternal world. Maintain and defend your empire or it will fall into disarray and be consumed by enemies."
 
 ---
 

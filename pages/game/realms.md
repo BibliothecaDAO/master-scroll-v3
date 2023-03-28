@@ -1,6 +1,12 @@
+import { Callout } from "nextra-theme-docs";
+
 # Realms
 
 > Realm Lords are the key players in the on-chain, eternal world, they own the land and are responsible for expanding the economy of the world. They engage in wars and form alliances, and also break them, all in pursuit of scarce resources. These actions keep the game dynamic and add depth to the players' experience, as they must make strategic decisions in order to succeed. In order to be successful, Realm Lords must balance the need for resources and expansion with the need to protect their Realm and build a powerful army. They must also carefully consider their alliances and enemies, as these relationships can greatly impact their ability to acquire resources and defend their Realm. 
+
+<Callout emoji="👑">
+A Realm Lord: someone that owns one or more Realms NFT.
+</Callout>
 
 ## Origin
 
@@ -11,7 +17,7 @@ The 8000 Realms in the game were originally procedurally generated as black and 
 
  ## 22 Resources
 
-Every Realm in the game contains at least one, and up to seven, of the 22 different resources discovered in the "Lootverse," each with varying rarity. 
+Every Realm is home to a minimum of one and a maximum of seven distinct resources out of the 22 identified within the Loot Project contracts, with each resource possessing varying degrees of rarity.
 
 |     Resource      | Count | % of Resources | Relative Value |
 |-------------------|:-----:|:--------------:|:--------------:|

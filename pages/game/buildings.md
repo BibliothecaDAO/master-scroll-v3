@@ -1,10 +1,10 @@
 import { Callout } from "nextra-theme-docs";
 
-![Buildings](/static/img/game/buildings/mj_hut.png)
-
 # Buildings
 
 > In the role of a Realm Lord, one must meticulously weigh the advantages and disadvantages of each building to skillfully balance the statistics and cultivate a robust and flourishing Realm. This process involves not only finding equilibrium among the various structures but also recognizing the Realm's current needs and priorities. By focusing on specific buildings or upgrades that address these immediate requirements, Realm Lords can ensure the ongoing growth and prosperity of their domain while maintaining a strategic edge in their ever-evolving world.
+
+![Buildings](/static/img/game/buildings/mj_hut.png)
 
 ## Spatial Areas
 
