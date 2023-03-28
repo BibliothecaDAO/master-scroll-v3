@@ -6,7 +6,7 @@ import { Callout } from "nextra-theme-docs";
 
 ## What are Battalions?
 
-Battalions are groups of military units that when combined create armies. There are 4 unit types with 2 tiers each. Each tier has a different cost and different stats.
+Battalions are groups of military units that when combined create an army. There are 4 unit types with 2 tiers each. Each tier has a different cost and different stats.
 
 | Building                                                                       | Tier 1 Unit                                                                | Tier 2 Unit                                                                |
 | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
@@ -22,7 +22,7 @@ Battalions are groups of military units that when combined create armies. There 
 
 ---
 
-## What are Armies?
+## What are armies?
 
 Armies are composed of battalions. A Realm can contain many armies.
 
@@ -32,6 +32,6 @@ A Realm can only have one defending army at a time and it's the responsibility o
 
 ### Attacking Armies
 
-You can create multiple attacking armies as you wish, however, each battalion counts as 1 population. These armies are used to travel to and raid other Realms in order to acquire resources. It is important to keep in mind that the more attacking armies you have, the more population they will consume. Therefore, it's important to balance the number of attacking armies with the size of your population and the resources available to sustain them. It's also important to consider the risk and benefit of each raid, and make sure that the resources you might acquire are worth the potential loss of troops or population.
+You can create as many attacking armies as you wish, however, each battalion counts as 1 population. These armies are used to travel to and raid other Realms in order to acquire resources. It is important to keep in mind that the more attacking armies you have, the more population they will consume. Therefore, it's important to balance the number of attacking armies with the size of your population and the resources available to sustain them. It's also important to consider the risk and benefit of each raid, and make sure that the resources you might acquire are worth the potential loss of troops or population.
 
 > “An army marches on its belly. “ - Frederick the Great (or Napoleon)

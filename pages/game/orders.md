@@ -11,7 +11,7 @@ description: There are 16 Orders that were discovered in the deep lore of Loot, 
 
 ## What is an Order?
 
-There are 16 Orders that were discovered deep in the data and contracts of Loot, each of which 500 Realms are assigned to. Creating order within the Lootverse (discovered by the historians at https://loot.foundation/ and Genesis Adventurers.
+There are 16 Orders that were discovered deep in the data and contracts of Loot, each of which 500 Realms are assigned to. Creating order within the Lootverse discovered by the historians at [Loot Foundation](https://loot.foundation/) and Genesis Adventurers.
 
 
 ## What do the Orders mean for gameplay?

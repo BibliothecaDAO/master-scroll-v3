@@ -8,13 +8,13 @@ import { Callout } from "nextra-theme-docs";
 
 ## Spatial Areas
 
-Buildings take up square space on your Realm so you must choose which ones to build.
+Buildings take up square space on your Realm so players must choose which ones to build.
 
 You can calculate the spatial area of a Realm by:
 
 > Regions \* Cities + 25 = buildable space
 
-The max buildable squares formula is a constraint that determines the maximum amount of space that can be used for building at any given time in a Realm. If all available space has been built on, the ruler must either wait for buildings to decay or demolish existing structures in order to create more space for new buildings. It's important for the ruler to consider the long-term effects of demolishing buildings and the potential negative impact on the Realm's statistics before making this decision.
+The max buildable squares formula is a constraint that determines the maximum amount of space that can be used for building at any given time in a Realm. If all available space has been built on, the player must either wait for buildings to decay or demolish existing structures in order to create more space for new buildings. It's important for the ruler to consider the long-term effects of demolishing buildings and the potential negative impact on the Realm's statistics before making this decision.
 
 ---
 
@@ -56,8 +56,8 @@ See the [Food](/docs/game/food) section for more information.
 
 ## Storehouses
 
-To distribute food to your population and troops, you must convert $FISH/$WHEAT into a storehouse.
+To distribute food to your population and batallions, you must convert $FISH/$WHEAT into a storehouse.
 
-Storehouses take up spatial areas on your Realm so you must be strategic about your buildings to ensure you always have enough room to feed your population, and therefore increase your resource output and troop's vitality.
+Storehouses take up spatial areas on your Realm so you must be strategic about your buildings to ensure you always have enough room to feed your population, and therefore increase your resource output and batallions's vitality.
 
 Each 10,000 units of food in a storehouse takes up 2 sqm on your Realm, this means you cannot just hoard food on your Realm otherwise you will not be able to build anything else.

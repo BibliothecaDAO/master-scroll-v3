@@ -12,6 +12,18 @@ However, it is important to note that raiding can be a risky strategy as the def
 
 ## Raiding factors to consider
 
+### Travel
+
+To raid another Realm for resources and relics, players must have at least one attacking army, select a target Realm (filtered by desired resources and size of the raidable vault), and action their army to travel there. 
+
+Travel time is relevant to the distance between the coordinates of the army and the target Realm, and takes between 1-20 hours. This is displayed as a countdown timer on the army and their travel progress is also shown on the Atlas in the form of a route path. 
+
+Once the attacking army has reached the destination, players have the choice to raid them straight away or bide their time while the raidable vault increases. Be warned though; another attacking army could plunder if you’re too slow.
+
+#### XY Coordinates
+
+Every point of interest on the Atlas (Realms, Crypts & Caverns, Loot Bags, Armies and soon-to-be Adventurers) has XY coordinates. This adds an extra level of realism to the world of Eternum - there is a relative distance between points on the Atlas so players are required to travel to explore and interact. 
+
 ### Cool Down Time
 
 To limit bots, there is a cool down period between raids. After a successful or unsuccessful raid, the defensive army will have a cool down period of 2hrs before it can be attacked again.

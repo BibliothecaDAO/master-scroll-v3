@@ -17,7 +17,7 @@ The 8000 Realms in the game were originally procedurally generated as black and 
 
  ## 22 Resources
 
-Every Realm is home to a minimum of one and a maximum of seven distinct resources out of the 22 identified within the Loot Project contracts, with each resource possessing varying degrees of rarity.
+Every Realm is home to a minimum of one and a maximum of seven distinct resources out of the 22 identified within the contracts of Loot, with each resource possessing varying degrees of rarity.
 
 |     Resource      | Count | % of Resources | Relative Value |
 |-------------------|:-----:|:--------------:|:--------------:|

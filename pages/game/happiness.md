@@ -15,4 +15,10 @@ The following are the current impacts on Happiness:
 
 ### What happens when your Realm is unhappy?
 
-When a Realm's happiness score drops, it can have serious consequences on the Realm's military power. Every 12 hours (game tick cycle), the Realm's armies will start to desert by 15%. This can weaken the Realm's defenses and make it vulnerable to attacks from other Realms. It is important to maintain a high happiness score in order to keep the armies strong and the Realm safe. If a Realm's happiness score drops below 100, it is important to take immediate action to bring it back up before the next game cycle to avoid negative effects. This can be done by addressing the factors that are causing the unhappiness, such as food scarcity, lack of protection, losing battles, and losing the relic, also by providing bonuses or incentives to the population such as building certain types of buildings or giving rewards for their loyalty.
+When a Realm's happiness score drops, it can have serious consequences on the Realm's military power. 
+
+Every 12 hours (game tick cycle), the Realm's armies will start to desert by 15%. This can weaken the Realm's defenses and make it vulnerable to attacks from other Realms. 
+
+It is important to maintain a high happiness score in order to keep the armies strong and the Realm safe. If a Realm's happiness score drops below 100, it is important to take immediate action to bring it back up before the next game cycle to avoid negative effects. 
+
+This can be done by addressing the factors that are causing the unhappiness, such as food scarcity, lack of protection, losing battles, and losing the relic, also by providing bonuses or incentives to the population such as building certain types of buildings or giving rewards for their loyalty.
